@@ -1,4 +1,4 @@
-# Lern-Periode 5 / 6 / 7 / 8
+# Lern-Periode 1
 
 - Name: Pascal Schönberger
 - Zeitraum: 14.08.2026 bis tt.mm.jjjj
@@ -7,10 +7,10 @@
 
 ### Noten
 > Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-
+0
 ### Veränderungen
 > Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
-
+> 
 ### Projekte / neue Technologien
 > Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
 
