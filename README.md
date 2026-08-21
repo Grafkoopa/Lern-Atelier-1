@@ -34,7 +34,7 @@
 
 - [x] Github Markdown fertig stellen
 - [ ] Im Modul Modul 431 bis und mit Nachweis LZ 1.5: 1705_Aufträge kommen
-- [ ] Die Mission 2 in Modul 319 fertig werden
+- [x] Die Mission 2 in Modul 319 fertig machen
 
 (Heute habe ich... (50-100 Wörter))
 
