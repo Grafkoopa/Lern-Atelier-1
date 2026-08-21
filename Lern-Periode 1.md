@@ -1,7 +1,7 @@
 # Lern-Periode 1
 
 - Name: Pascal Schönberger
-- Zeitraum: 14.08.2026 bis tt.mm.jjjj
+- Zeitraum: 14.08.2026 bis 21.06.2027
 
 ## Grob-Planung
 
