@@ -33,7 +33,7 @@
 ### Planung 28.08.2026
 
 - [x] Gespräch mit Lehrperson
-- [ ] Mission 4 im Modul 419 abschliessen
+- [x] Mission 4 im Modul 419 abschliessen
 - [ ] ILA übungstest abschliessen
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
