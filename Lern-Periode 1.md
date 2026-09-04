@@ -46,7 +46,7 @@
 - [x] MIssion 6 des Modules 419 abschliessen
 - [x] Prüfungs ready werden
 ## Lernperiode Reflexion
- In dieser Lernperiode habe ich vieles gemacht. Ich habe die Mission 5 und Mission 6 des Moduls 419 abgeschlossen und habe auch noch für OBA gelernt. Ich fühle mich bereit die Prüfung zu machen
+ In dieser Lernperiode habe ich vieles gemacht. Ich habe die Mission 5 und Mission 6 des Moduls 419 abgeschlossen und habe auch noch für OBA gelernt. Ich fühle mich bereit die Prüfung zu machen.
 
 
 
