@@ -35,8 +35,6 @@
 - [x] Gespräch mit Lehrperson
 - [x] Mission 4 im Modul 419 abschliessen
 - [x] ILA übungstest abschliessen
-## Lernperiode Reflexion
-
 
 
 
