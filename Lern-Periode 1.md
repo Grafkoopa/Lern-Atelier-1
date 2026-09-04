@@ -36,16 +36,17 @@
 - [x] Mission 4 im Modul 419 abschliessen
 - [x] ILA übungstest abschliessen
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
+
 
 
 
 ###  Planung 9.08.2016
 
 - [x] Mission 5 des Modules 419 abschliessen
-- [ ] MIssion 6 des Modules 419 abschliessen
-- [ ] Prüfungs ready werden
-
+- [x] MIssion 6 des Modules 419 abschliessen
+- [x] Prüfungs ready werden
+## Lernperiode Reflexion
+ In dieser Lernperiode habe ich vieles gemacht. Ich habe die Mission 5 und Mission 6 des Moduls 419 abgeschlossen und habe auch noch für OBA gelernt. Ich fühle mich bereit die Prüfung zu machen
 
 
 
