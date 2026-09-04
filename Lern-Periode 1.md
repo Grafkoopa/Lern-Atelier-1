@@ -34,13 +34,17 @@
 
 - [x] Gespräch mit Lehrperson
 - [x] Mission 4 im Modul 419 abschliessen
-- [ ] ILA übungstest abschliessen
+- [x] ILA übungstest abschliessen
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
 
 
 
+###  Planung 9.08.2016
 
+- [x] Mission 5 des Modules 419 abschliessen
+- [ ] MIssion 6 des Modules 419 abschliessen
+- [ ] Prüfungs ready werden
 
 
 
