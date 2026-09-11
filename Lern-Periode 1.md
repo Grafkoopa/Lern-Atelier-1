@@ -50,9 +50,9 @@
 
 ###  Planung 11.09.2026
 
-- [ ] Mission 7 des Modules 419 abschliessen
-- [ ] 
-- [ ] zz
+- [x] Mission 7 des Modules 419 abschliessen
+- [x] Presentation der Mission 8 im Modul 419 durchlesen
+- [x] Mission 8 des Mosuls 419 anfangen
 ## Lernperiode Reflexion
 
 
