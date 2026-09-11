@@ -38,7 +38,7 @@
 
 
 
-###  Planung 9.08.2016
+###  Planung 5.09.2026
 
 - [x] Mission 5 des Modules 419 abschliessen
 - [x] MIssion 6 des Modules 419 abschliessen
@@ -46,7 +46,13 @@
 
  In dieser Lernperiode habe ich vieles gemacht. Ich habe die Mission 5 und Mission 6 des Moduls 419 abgeschlossen und habe auch noch für OBA gelernt. Ich fühle mich bereit die Prüfung zu machen.
 
- 
+
+
+###  Planung 11.09.2026
+
+- [ ] Mission 7 des Modules 419 abschliessen
+- [ ] 
+- [ ] zz
 ## Lernperiode Reflexion
 
 
