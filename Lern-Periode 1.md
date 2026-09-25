@@ -53,7 +53,6 @@
 - [x] Mission 7 des Modules 419 abschliessen
 - [x] Presentation der Mission 8 im Modul 419 durchlesen
 - [x] Mission 8 des Mosuls 419 anfangen
-## Lernperiode Reflexion
 
 
 
@@ -70,3 +69,7 @@
 - [x] Mission 9 des Modules 319 abschliessen
 - [ ] Mission 10 des Modules 319 anfangen
 - [ ] Endreflexion der Lernperiode schreiben
+
+## Lernperiode Reflexion
+
+Ich habe in dieser Lernperiode an vielen Sachen gearbeitet, ich habe viele Aufgaben abgeschlossen welche ich sonst zuhause hätte lösen müssen. In dieser Lernperiode habe ich hauptsätzlich an den anderen Modulen gearbeitet und mir dadurch geholfen nicht hintendrein zu fallen. 
