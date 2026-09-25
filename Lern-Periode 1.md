@@ -63,3 +63,10 @@
 - [x] Powerpoints von der Mission 9 durchlesen
 - [x] Erste Arbeitsaufträge lösen 
 
+
+
+###  Planung 25.09.2026
+
+- [x] Mission 9 des Modules 319 abschliessen
+- [ ] Mission 10 des Modules 319 anfangen
+- [ ] Endreflexion der Lernperiode schreiben
