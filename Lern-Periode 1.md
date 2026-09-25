@@ -72,4 +72,4 @@
 
 ## Lernperiode Reflexion
 
-Ich habe in dieser Lernperiode an vielen Sachen gearbeitet, ich habe viele Aufgaben abgeschlossen welche ich sonst zuhause hätte lösen müssen. In dieser Lernperiode habe ich hauptsätzlich an den anderen Modulen gearbeitet und mir dadurch geholfen nicht hintendrein zu fallen. 
+Ich habe in dieser Lernperiode an vielen Sachen gearbeitet, ich habe viele Aufgaben abgeschlossen welche ich sonst zuhause hätte lösen müssen. In dieser Lernperiode habe ich hauptsätzlich an den anderen Modulen gearbeitet und mir dadurch geholfen nicht hintendrein zu fallen. Das selbständige arbeiten im ILA hat mir sehr gefallen und ich hatte keine grossen Probleme.
